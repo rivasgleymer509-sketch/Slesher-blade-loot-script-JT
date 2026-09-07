@@ -131,7 +131,7 @@ percent.BackgroundTransparency = 1
 percent.Text = "0%"
 percent.Font = Enum.Font.Gotham
 percent.TextSize = 14
-percent.TextColor3 = Color3.fromRGB(150,150,200)
+percent.TextColor3 = Color3.fromRGB(1,1,1)
 percent.ZIndex = 2
 
 -- SKIP BUTTON (ABAJO DERECHA)
